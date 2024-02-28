@@ -1,0 +1,7 @@
+.svg-box{
+    filter: drop-shadow();
+}
+
+.circle-image:hover{
+    background-color: lightskyblue;
+}
